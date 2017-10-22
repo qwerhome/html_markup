@@ -1,1 +1,2 @@
-Hello world. This is a master
+Hello world. This is a development branch
+New change

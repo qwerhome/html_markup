@@ -1,4 +1,4 @@
 <?php
 
-$config = "admin";
+$config = "admin_root";
 

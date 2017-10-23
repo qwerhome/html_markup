@@ -1,3 +1,3 @@
 <?php
 
-$config = "config";
+$config = "admin";
